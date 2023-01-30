@@ -1,0 +1,10 @@
+/*레이아웃*/
+
+#wrap {
+       width: 1200px;
+       height: 500px;
+       background: #ccc;
+    margin:0 auto;
+   }
+
+   #banner {}
